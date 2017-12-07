@@ -35,3 +35,5 @@ function [ choi_ml_vec, solution, costs  ] = DIA( A,n )
     choi_ml_vec = solution{end};
 end
 
+%comment for commit
+%second comment
